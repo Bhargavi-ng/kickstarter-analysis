@@ -14,9 +14,8 @@ The campaigns for Theatre category have been most successful during the month of
 
 The canceled campaigns have a flat line and is not influenced by launch date except for the month of October. During October, there were no canceled campaigns.
 
-![Graph for Outcome Based on Launch Date](Resources/Theater_Outcomes_vs__Launch.png)
+![Graph for Outcome Based on Launch Date](https://github.com/Bhargavi-ng/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
-![example](
 Based on the above analysis, we can say that launching a campaign is month of May has more probability of success and launching a campaign in the month of December has the similar probabilty of success as failure.
 
 ### Analysis of Outcomes Based on Goals
