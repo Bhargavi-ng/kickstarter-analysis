@@ -28,9 +28,9 @@ For this analysis, we filtered the data to only "Plays" subcategory in the Theat
 Based on the above analysis we can say that there is a higher probablity of success if a campaign for "Plays" subcategory if the goal is less than $5,000.
 
 ### Challenges and Difficulties Encountered
-Assumption: The challenges and difficulties are with respect to completing this Module 1 Challenge.
-    1. For me the biggest challenge was familiarizing myself with git (push & pull) and writing the Readme file with proper syntax.
-    2. With respect to the analysis, I am still not sure what graph to use to represent the data I put together. The challenge said what graph to create but when I wanted to experiment some more I wasn't sure what graphs to use.
+**Assumption:** The challenges and difficulties are with respect to completing this Module 1 Challenge.
+ 1. For me the biggest challenge was familiarizing myself with git (push & pull) and writing the Readme file with proper syntax.
+ 2. With respect to the analysis, I am still not sure what graph to use to represent the data I put together. The challenge said what graph to create but when I wanted to experiment some more I wasn't sure what graphs to use.
 
 
 ## Results
