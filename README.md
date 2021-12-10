@@ -17,8 +17,8 @@ The canceled campaigns have a flat line and is not influenced by launch date exc
 ![Graph for Outcome Based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
 
 Based on the above analysis, we can say that 
-    1. launching a campaign in month of May has more probability of success and 
-    2. launching a campaign in the month of December has almost equal probabilty of success and failure.
+1. launching a campaign in month of May has more probability of success and 
+2. launching a campaign in the month of December has almost equal probabilty of success and failure.
 
 ### Analysis of Outcomes Based on Goals
 For this analysis, we filtered the data to only "Plays" subcategory in the Theatre Category. Looking at the data we can say that the highest probabilty of success for a "Plays" campaign is when the goal is less than $1,000. The next highest probabilty of success is for campaigns in the goal range of $1,000 to $4,999. Also, the dataset has highest number of campaigns in this range. We can see that the probability of success decreases as the goal amount keeps increasing until the goal amount of $35,000. The trend changes at this point and the probabilty of success goes up when the goal amount is in the range of $35,000 to $44,999. Please refer the graph below.
